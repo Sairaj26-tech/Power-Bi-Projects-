@@ -31,5 +31,6 @@ You can check it here: https://github.com/microsoft/sql-server-samples/tree/mast
 
 **Project outcome:**
 
-![Summary page](https://github.com/MoroccanGeek/Business-Intelligence-project-with-TALEND-and-PowerBI/blob/master/Screenshots/1.png?raw=true "Optional Title")
+![Summary page](https://user-images.githubusercontent.com/59919878/173186837-54c19471-1965-4035-abfb-d695f050fbde.pngraw=true "Optional Title")
 check more in screenshots folder
+
