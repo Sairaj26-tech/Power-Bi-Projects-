@@ -30,7 +30,6 @@ You can check it here: https://github.com/microsoft/sql-server-samples/tree/mast
 
 
 **Project outcome:**
+![1](https://user-images.githubusercontent.com/59919878/173186932-2e0f5781-52ed-4501-bfff-e1ec3c5372f8.png)
 
-![Summary page](https://user-images.githubusercontent.com/59919878/173186837-54c19471-1965-4035-abfb-d695f050fbde.pngraw=true "Optional Title")
-check more in screenshots folder
 
